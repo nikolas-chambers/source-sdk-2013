@@ -71,3 +71,21 @@ https://partner.steamgames.com/doc/sdk/uploading/distributing_source_engine
 The SDK is licensed to users on a non-commercial basis under the [SOURCE 1 SDK LICENSE](LICENSE), which is contained in the [LICENSE](LICENSE) file in the root of the repository.
 
 For more information, see [Distributing your Mod](#markdown-header-distributing-your-mod).
+
+---
+
+<table>
+<tr><td>
+
+### ☕ Buy me a coffee?
+
+**Venmo · Cash App · PayPal — "NikAndRigatoni" (Nikolas Chambers)**
+
+The honest version: my dog and I are living in the car right now. I spend my
+days writing code anyway - bringing old projects of mine back to life one at a
+time, and learning everything I can along the way. If anything here was useful
+to you, a few bucks goes to dog food, gas, and keeping the laptop running, and
+it buys me more hours to keep building. Either way, thanks for reading this far.
+
+</td></tr>
+</table>
