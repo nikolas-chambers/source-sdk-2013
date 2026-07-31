@@ -1,5 +1,7 @@
 # Source SDK 2013
 
+*Detached fork of [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013).*
+
 Source code for Source SDK 2013.
 
 Contains the game code for Half-Life 2, HL2: DM and TF2.
